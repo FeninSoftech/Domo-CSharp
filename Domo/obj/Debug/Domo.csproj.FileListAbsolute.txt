@@ -1,0 +1,8 @@
+E:\Projects\2016\Serene Technologies\Domo\Domo\bin\Debug\Domo.exe.config
+E:\Projects\2016\Serene Technologies\Domo\Domo\obj\Debug\Domo.csprojResolveAssemblyReference.cache
+E:\Projects\2016\Serene Technologies\Domo\Domo\bin\Debug\Domo.exe
+E:\Projects\2016\Serene Technologies\Domo\Domo\bin\Debug\Domo.pdb
+E:\Projects\2016\Serene Technologies\Domo\Domo\obj\Debug\Domo.exe
+E:\Projects\2016\Serene Technologies\Domo\Domo\obj\Debug\Domo.pdb
+E:\Projects\2016\Serene Technologies\Domo\Domo\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\2016\Serene Technologies\Domo\Domo\bin\Debug\Newtonsoft.Json.xml
